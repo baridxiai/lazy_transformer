@@ -9,4 +9,4 @@ Code for our paper:
 I've changed the framework of UNIVERSAL this year. For now, lazy_transformer was based on previous framework. I will reimplement this work ASAP. 
 
 
-However, you can still use the LT.py for your Universal Transformer/ Naive Transformer to implement Lazy Transformer.
+However, you can still use the lt.py and lazyTransition.py for your Universal Transformer/ Naive Transformer to implement Lazy Transformer.
